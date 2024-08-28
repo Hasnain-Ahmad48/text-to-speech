@@ -1,0 +1,27 @@
+body {
+    background-color: aquamarine;
+    margin: 0;
+    height: 100vh;
+    padding: 50px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn-primary {
+    color: white;
+    background: rgb(117, 175, 192);
+    border: none;
+    padding: 10px;
+    width: 60px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#input {
+    height: 30px;
+    border: transparent;
+    
+    outline-color: rgb(117, 175, 192);
+}
